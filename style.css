@@ -3,7 +3,7 @@
     padding: 0px;
 }
 .menu-container{
-    background-color: rgb(61, 59, 59);
+    background-color: #0F0F0F;
     padding: 20px;
     color: white;
     list-style: none;
@@ -56,4 +56,64 @@
     background-color: red;
     color: beige;
     
+    
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 10px;
+}
+.about-tital{
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    
+   
+}
+.box{
+    width: 220px;
+    height: 270px;
+    box-shadow: 4px 4px 15px grey;
+    padding: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.img-class{
+    width: 70px;
+    
+}
+.box-btn{
+    background-color: grey;
+    margin-top: 10px;
+}
+.box-title{
+    padding: 10px;
+}
+.box-description{
+    padding: 5px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: rgb(15, 15, 15);
+}
+.Playboy{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+.Houses{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
 }

@@ -65,6 +65,12 @@
     flex-direction: row-reverse;
     padding: 10px;
 }
+.about-on{
+    padding: 20px;
+    color: rgb(24, 24, 194);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
 .about-tital{
     text-align: center;
     padding: 20px;
